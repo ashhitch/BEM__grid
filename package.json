@@ -1,0 +1,25 @@
+{
+  "name": "BEM__Grid",
+  "version": "0.0.1",
+  "description": "BEM Based Grid",
+  "main": " ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "author": "Ashley Hitchcock",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-concat": "^2.4.3",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.0.3",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.4",
+    "jshint-stylish": "^1.0.0",
+    "gulp-live-server": "0.0.14"
+  }
+}
